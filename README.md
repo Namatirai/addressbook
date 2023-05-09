@@ -12,7 +12,7 @@ Running the example from the command line
 -------------------
 ```
 $ mvn jetty:run
-```
+```its lir
 
 Open [http://localhost:8080/](http://localhost:8080/)
 
